@@ -28,7 +28,7 @@ Large selection of encryption types.
 # Getting Started:
 ##Link PLAY MARKET
 
-## Built Witha:
+## Built With:
 * XML
 * Java 11
 
