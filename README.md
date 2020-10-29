@@ -26,7 +26,7 @@ Large selection of encryption types.
 <img src="https://sun9-29.userapi.com/impf/0EDFvGnL4UR_QYtlzJ_ydR6o9gyv5eZvAkjOhQ/YTsRqEZO_a4.jpg?size=0x0&quality=90&proxy=1&sign=4815601ea8106970d3c6196aab21c740" width="350">
 
 # Getting Started:
-##Link PLAY MARKET
+https://play.google.com/store/apps/details?id=com.linkclink.easycoder&hl=ru
 
 ## Built With:
 * XML
