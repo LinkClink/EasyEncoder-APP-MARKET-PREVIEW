@@ -4,9 +4,9 @@ https://play.google.com/store/apps/details?id=com.linkclink.easycoder&hl=ru
 ## Project Title:
  **EasyCoder**
  
-Hello, If you store your data in an unprotected form or in open access, then you can encrypt it using Easy Encoder and are not afraid that someone will use it.Protect your data.
+Hello, If you store your data in an unprotected form or open access, then you can encrypt it using Easy Encoder and are not afraid that someone will use it. Protect your data.
 
-Aplication EasyEncoder is designed to encrypt your data and convert it.
+Application EasyEncoder is designed to encrypt your data and convert it.
 The program can work with such types as:
 - Password
 - Message
@@ -29,9 +29,12 @@ Large selection of encryption types.
 # Getting Started:
 https://play.google.com/store/apps/details?id=com.linkclink.easycoder&hl=ru
 
-## Built With:
-* XML
+## Technologies used:
 * Java 11
+* XML
+* Gradle
+* JUnit4
+* AppCompat
 
 # Authors:
 - Yevhenii Andrushchenko (LinkClink)
