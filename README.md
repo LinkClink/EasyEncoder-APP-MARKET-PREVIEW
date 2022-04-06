@@ -1,5 +1,5 @@
 # EasyEncoder APP (PLAY MARKET)
-https://play.google.com/store/apps/details?id=com.linkclink.easycoder&hl=ru
+[Play Market](https://play.google.com/store/apps/details?id=com.linkclink.easycoder&hl=ru)
 
 ## Project Title:
  **EasyCoder**
@@ -15,7 +15,7 @@ The program can work with such types as:
 All data is encrypted using a set of numbers with unique encryption techniques that were invented by the developer from scratch.
 Also, the program is protected by a password and a security question.
 
-Features:
+# Features:
 Protecting the application with a password.
 Unique encryption code on each device.
 Large selection of encryption types.
@@ -27,7 +27,11 @@ Large selection of encryption types.
 <img src="https://sun9-29.userapi.com/impf/0EDFvGnL4UR_QYtlzJ_ydR6o9gyv5eZvAkjOhQ/YTsRqEZO_a4.jpg?size=0x0&quality=90&proxy=1&sign=4815601ea8106970d3c6196aab21c740" width="350">
 
 # Getting Started:
-https://play.google.com/store/apps/details?id=com.linkclink.easycoder&hl=ru
+[Play Market](https://play.google.com/store/apps/details?id=com.linkclink.easycoder&hl=ru)
+
+# Requirements for version android:
+- Minimum required Android version: Android [Lollipop](https://en.wikipedia.org/wiki/Android_Lollipop) 5x (SDK 21)
+- Recommended Android version: Android 11 [Red Velvet Cake](https://en.wikipedia.org/wiki/Android_11) (SDK 30)
 
 ## Technologies used:
 * Java 11
