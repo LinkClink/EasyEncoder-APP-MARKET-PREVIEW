@@ -1,5 +1,5 @@
 # EasyEncoder APP (PLAY MARKET)
-[Play Market](https://play.google.com/store/apps/details?id=com.linkclink.easycoder&hl=ru)
+[Play Market](https://play.google.com/store/apps/details?id=com.linkclink.easycoder&hl=ru) (Inactive)
 
 ## Project Title:
  **EasyCoder**
