@@ -1,5 +1,6 @@
 # EasyEncoder APP (PLAY MARKET)
-[Play Market]([https://play.google.com/store/apps/details?id=com.linkclink.easycoder&hl=ru](https://play.google.com/store/apps/details?id=com.linkclink.easycoder1)) (Close testing)
+[Play Market](https://play.google.com/store/apps/details?id=com.linkclink.easycoder1) (Close testing)
+
 [WEB](https://play.google.com/apps/testing/com.linkclink.easycoder1) (Close testing)
 
 ## Project Title:
